@@ -66,3 +66,7 @@ p {
     float: left;
     padding: 20px;
 }
+
+.nowrap {
+    white-space: nowrap;
+}
