@@ -41,6 +41,10 @@ p {
     border-bottom: none;
 }
 
+.nowrap {
+    white-space: nowrap;
+}
+
 .img_side {
     padding: 10px;
 }
@@ -67,6 +71,3 @@ p {
     padding: 15px;
 }
 
-.nowrap {
-    white-space: nowrap !important;
-}
